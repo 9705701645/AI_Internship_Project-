@@ -1,6 +1,6 @@
-# AI_Internship_Project
-# Task-1 
-MLP Face Recognition
+# AI_Internship_Project BY VARSHA REDDY
+Here I have completed 1 month training and 1 allocated project MLP Face Recognition.
+# Task-1 - MLP Face Recognition
 # Description 
 The Multi-Layer Perceptron (MLP) Face Recognition System is an innovative project that leverages the power of artificial neural networks to identify and recognize faces.
 
